@@ -9,3 +9,5 @@ go here https://github.com/JayBigGuy10/ProximaEbook/releases/tag/maintag, grab t
 - source uncompressed png images for the epub
 - jpg version with unresized images
 - jpg version with image max width set to 1300 (widest reasonable ereader resolution)
+
+![proxima cover](https://github.com/JayBigGuy10/ProximaEbook/blob/main/proxima-cover.png?raw=true)

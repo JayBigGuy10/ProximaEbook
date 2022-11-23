@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="uuid:e64513f2-266d-4b8a-b1ba-437597ee86c4"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.44.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Proxima: A Human Exploration of Mars</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Proxima: A Human Exploration of Mars</text>
+      </navLabel>
+      <content src="titletext.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="copyright.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="contents.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter One: The Dream Is Alive</text>
+      </navLabel>
+      <content src="chapter_01.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter Two: No Shortage of Determination</text>
+      </navLabel>
+      <content src="chapter_02.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 2: Annex</text>
+      </navLabel>
+      <content src="chapter_2a.html"/>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Chapter 3: Preface</text>
+        </navLabel>
+        <content src="chapter_2a.html#filepos9104"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter Three: A Plan</text>
+      </navLabel>
+      <content src="chapter_03.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 4: Preface</text>
+      </navLabel>
+      <content src="chapter_03a.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter Four: Enter Valiant</text>
+      </navLabel>
+      <content src="chapter_04.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 4: Annex</text>
+      </navLabel>
+      <content src="chapter_04a.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 5: Preface</text>
+      </navLabel>
+      <content src="chapter_04a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter Five: Designing for Mars</text>
+      </navLabel>
+      <content src="chapter_05.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 6: Preface</text>
+      </navLabel>
+      <content src="chapter_05a.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter Six: Slayton's Wish</text>
+      </navLabel>
+      <content src="chapter_06.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 6: Annex</text>
+      </navLabel>
+      <content src="chapter_06a.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 7: Preface</text>
+      </navLabel>
+      <content src="chapter_06a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter Seven: Some Assembly Required</text>
+      </navLabel>
+      <content src="chapter_07.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 8: Preface</text>
+      </navLabel>
+      <content src="chapter_07a.html"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter Eight: Close Call</text>
+      </navLabel>
+      <content src="chapter_08.html"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 8: Annex</text>
+      </navLabel>
+      <content src="chapter_08a.html"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 9: Preface</text>
+      </navLabel>
+      <content src="chapter_08a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter Nine: The Martian Invasion</text>
+      </navLabel>
+      <content src="chapter_09.html"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 9: Annex</text>
+      </navLabel>
+      <content src="chapter-09a.html"/>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 10: Preface</text>
+      </navLabel>
+      <content src="chapter-09a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter Ten: Return to Launch Site</text>
+      </navLabel>
+      <content src="chapter_10.html"/>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 10: Annex</text>
+      </navLabel>
+      <content src="chapter_10a.html"/>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Data Downlink: Findings from the Fleet</text>
+      </navLabel>
+      <content src="chapter_dd_01.html"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Interlude 1: Preface</text>
+      </navLabel>
+      <content src="chapter_dd_01a.html"/>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>Interlude I: Sagan's Wish</text>
+      </navLabel>
+      <content src="chapter_il_01.html"/>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 11: Preface</text>
+      </navLabel>
+      <content src="chapter_il_01a.html"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter Eleven: Recovery</text>
+      </navLabel>
+      <content src="chapter_11.html"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 11: Annex</text>
+      </navLabel>
+      <content src="chapter_11a.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 12: Preface</text>
+      </navLabel>
+      <content src="chapter_11a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter Twelve: Welcome to the Fleet</text>
+      </navLabel>
+      <content src="chapter_12.html"/>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 12: Annex</text>
+      </navLabel>
+      <content src="chapter_12a.html"/>
+    </navPoint>
+    <navPoint id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 13: Preface</text>
+      </navLabel>
+      <content src="chapter_12a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter Thirteen: Transatlantic Unity</text>
+      </navLabel>
+      <content src="chapter_13.html"/>
+    </navPoint>
+    <navPoint id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 13: Annex</text>
+      </navLabel>
+      <content src="chapter_13a.html"/>
+    </navPoint>
+    <navPoint id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 14: Preface</text>
+      </navLabel>
+      <content src="chapter_13a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter Fourteen: A New Tomorrow</text>
+      </navLabel>
+      <content src="chapter_14.html"/>
+    </navPoint>
+    <navPoint id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 14: Annex</text>
+      </navLabel>
+      <content src="chapter_14a.html"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 15: Preface</text>
+      </navLabel>
+      <content src="chapter_14a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter Fifteen: Free Flight</text>
+      </navLabel>
+      <content src="chapter_15.html"/>
+    </navPoint>
+    <navPoint id="num_45" playOrder="45">
+      <navLabel>
+        <text>Los Angeles Times, December 19, 1992</text>
+      </navLabel>
+      <content src="chapter_bn_01.html"/>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 15: Annex</text>
+      </navLabel>
+      <content src="chapter_15a.html"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 16: Preface</text>
+      </navLabel>
+      <content src="chapter_15a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter Sixteen: Ignition</text>
+      </navLabel>
+      <content src="chapter_16.html"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 16: Annex</text>
+      </navLabel>
+      <content src="chapter_16a.html"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 17: Preface</text>
+      </navLabel>
+      <content src="chapter_16a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chapter Seventeen: Flight of the Monitor</text>
+      </navLabel>
+      <content src="chapter_17.html"/>
+    </navPoint>
+    <navPoint id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chapter 17: Annex</text>
+      </navLabel>
+      <content src="chapter_17a.html"/>
+    </navPoint>
+    <navPoint id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chapter 18: Preface</text>
+      </navLabel>
+      <content src="chapter_17a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chapter Eighteen: In A Row</text>
+      </navLabel>
+      <content src="chapter_18.html"/>
+    </navPoint>
+    <navPoint id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chapter 18: Annex</text>
+      </navLabel>
+      <content src="chapter_18a.html"/>
+    </navPoint>
+    <navPoint id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chapter 19: Preface</text>
+      </navLabel>
+      <content src="chapter_18a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chapter Nineteen: Goodbye, Oh Goodbye!</text>
+      </navLabel>
+      <content src="chapter_19.html"/>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chapter 19: Annex</text>
+      </navLabel>
+      <content src="chapter_19a.html"/>
+    </navPoint>
+    <navPoint id="num_59" playOrder="59">
+      <navLabel>
+        <text>Chapter 20: Preface</text>
+      </navLabel>
+      <content src="chapter_19a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_60" playOrder="60">
+      <navLabel>
+        <text>Chapter Twenty: Hanging in A Sunbeam</text>
+      </navLabel>
+      <content src="chapter_20.html"/>
+    </navPoint>
+    <navPoint id="num_61" playOrder="61">
+      <navLabel>
+        <text>Chapter 20: Annex</text>
+      </navLabel>
+      <content src="chapter_20a.html"/>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>Interlude 2: Preface</text>
+      </navLabel>
+      <content src="chapter_20a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_63" playOrder="63">
+      <navLabel>
+        <text>Interlude II: Elysium Planitia</text>
+      </navLabel>
+      <content src="chapter_il_02.html"/>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>Interlude 2: Annex</text>
+      </navLabel>
+      <content src="chapter_il_02a.html"/>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>Chapter 21: Preface</text>
+      </navLabel>
+      <content src="chapter_il_02a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_66" playOrder="66">
+      <navLabel>
+        <text>Chapter Twenty-One: The Red Planet</text>
+      </navLabel>
+      <content src="chapter_21.html"/>
+    </navPoint>
+    <navPoint id="num_67" playOrder="67">
+      <navLabel>
+        <text>Chapter 21: Annex</text>
+      </navLabel>
+      <content src="chapter_21a.html"/>
+    </navPoint>
+    <navPoint id="num_68" playOrder="68">
+      <navLabel>
+        <text>Chapter 22: Preface</text>
+      </navLabel>
+      <content src="chapter_21a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_69" playOrder="69">
+      <navLabel>
+        <text>Chapter Twenty-Two: The Long Way Home</text>
+      </navLabel>
+      <content src="chapter_22.html"/>
+    </navPoint>
+    <navPoint id="num_70" playOrder="70">
+      <navLabel>
+        <text>Chapter 22: Annex</text>
+      </navLabel>
+      <content src="chapter_22a.html"/>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>Chapter 23: Preface</text>
+      </navLabel>
+      <content src="chapter_22a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>Chapter Twenty-Three: A Fleet at Work</text>
+      </navLabel>
+      <content src="chapter_23.html"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>Chapter 23: Annex</text>
+      </navLabel>
+      <content src="chapter_23a.html"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>Chapter 24: Preface</text>
+      </navLabel>
+      <content src="chapter_23a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_75" playOrder="75">
+      <navLabel>
+        <text>Chapter Twenty-Four: Cytherean Dreaming</text>
+      </navLabel>
+      <content src="chapter_24.html"/>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>Chapter 24: Annex</text>
+      </navLabel>
+      <content src="chapter_24a.html"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>Chapter 25: Preface</text>
+      </navLabel>
+      <content src="chapter_24a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>Chapter Twenty-Five: Perseverance</text>
+      </navLabel>
+      <content src="chapter_25.html"/>
+    </navPoint>
+    <navPoint id="num_79" playOrder="79">
+      <navLabel>
+        <text>Chapter 25: Annex</text>
+      </navLabel>
+      <content src="chapter_25a.html"/>
+    </navPoint>
+    <navPoint id="num_80" playOrder="80">
+      <navLabel>
+        <text>Chapter 26: Preface</text>
+      </navLabel>
+      <content src="chapter_25a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_81" playOrder="81">
+      <navLabel>
+        <text>Chapter Twenty-Six: An Aggressor From Other Worlds</text>
+      </navLabel>
+      <content src="chapter_26.html"/>
+    </navPoint>
+    <navPoint id="num_82" playOrder="82">
+      <navLabel>
+        <text>Chapter 26: Annex</text>
+      </navLabel>
+      <content src="chapter_26a.html"/>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>Chapter 27: Preface</text>
+      </navLabel>
+      <content src="chapter_26a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>Chapter Twenty-Seven: The First Home of the Earthlings</text>
+      </navLabel>
+      <content src="chapter_27.html"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>Chapter 28: Preface</text>
+      </navLabel>
+      <content src="chapter_27a.html"/>
+    </navPoint>
+    <navPoint id="num_86" playOrder="86">
+      <navLabel>
+        <text>Chapter Twenty-Eight: Rest Weary Travelers</text>
+      </navLabel>
+      <content src="chapter_28.html"/>
+    </navPoint>
+    <navPoint id="num_87" playOrder="87">
+      <navLabel>
+        <text>Chapter 28: Annex</text>
+      </navLabel>
+      <content src="chapter_28a.html"/>
+    </navPoint>
+    <navPoint id="num_88" playOrder="88">
+      <navLabel>
+        <text>Chapter 29: Preface</text>
+      </navLabel>
+      <content src="chapter_28a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>Chapter Twenty-Nine: The Great Unknown</text>
+      </navLabel>
+      <content src="chapter_29.html"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>Chapter 29: Annex</text>
+      </navLabel>
+      <content src="chapter_29a.html"/>
+    </navPoint>
+    <navPoint id="num_91" playOrder="91">
+      <navLabel>
+        <text>Chapter 30: Preface</text>
+      </navLabel>
+      <content src="chapter_29a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_92" playOrder="92">
+      <navLabel>
+        <text>Chapter Thirty: Rise of the Titans</text>
+      </navLabel>
+      <content src="chapter_30.html"/>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>Chapter 30: Annex</text>
+      </navLabel>
+      <content src="chapter_30a.html"/>
+    </navPoint>
+    <navPoint id="num_94" playOrder="94">
+      <navLabel>
+        <text>Interlude 3: Preface</text>
+      </navLabel>
+      <content src="chapter_30a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>Interlude III: Blue Flight</text>
+      </navLabel>
+      <content src="chapter_il_03.html"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>This is Breaking News...</text>
+      </navLabel>
+      <content src="chapter_bn_02.html"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>Chapter 31: Preface</text>
+      </navLabel>
+      <content src="chapter_bn_02a.html"/>
+    </navPoint>
+    <navPoint id="num_98" playOrder="98">
+      <navLabel>
+        <text>Chapter Thirty-One: Homecoming</text>
+      </navLabel>
+      <content src="chapter_31.html"/>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>Chapter 32: Preface</text>
+      </navLabel>
+      <content src="chapter_31a.html"/>
+    </navPoint>
+    <navPoint id="num_100" playOrder="100">
+      <navLabel>
+        <text>Chapter 32: Deconstruction</text>
+      </navLabel>
+      <content src="chapter_32.html"/>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>Chapter 32: Annex</text>
+      </navLabel>
+      <content src="chapter_32a.html"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>Chapter 33: Preface</text>
+      </navLabel>
+      <content src="chapter_32a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>Chapter Thirty-Three: New Dawn</text>
+      </navLabel>
+      <content src="chapter_33.html"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>Chapter 33: Annex</text>
+      </navLabel>
+      <content src="chapter_33a.html"/>
+    </navPoint>
+    <navPoint id="num_105" playOrder="105">
+      <navLabel>
+        <text>Chapter 34: Preface</text>
+      </navLabel>
+      <content src="chapter_33a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_106" playOrder="106">
+      <navLabel>
+        <text>Chapter Thirty-Four: To Build Anew</text>
+      </navLabel>
+      <content src="chapter_34.html"/>
+    </navPoint>
+    <navPoint id="num_107" playOrder="107">
+      <navLabel>
+        <text>Chapter 34: Annex</text>
+      </navLabel>
+      <content src="chapter_34a.html"/>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>Chapter 35: Preface</text>
+      </navLabel>
+      <content src="chapter_34a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_109" playOrder="109">
+      <navLabel>
+        <text>Chapter Thirty-Five: Promise of Tomorrow</text>
+      </navLabel>
+      <content src="chapter_35.html"/>
+    </navPoint>
+    <navPoint id="num_110" playOrder="110">
+      <navLabel>
+        <text>Chapter 36: Preface</text>
+      </navLabel>
+      <content src="chapter_35a.html"/>
+    </navPoint>
+    <navPoint id="num_111" playOrder="111">
+      <navLabel>
+        <text>Chapter Thirty-Six: A Growing Field</text>
+      </navLabel>
+      <content src="chapter_36.html"/>
+    </navPoint>
+    <navPoint id="num_112" playOrder="112">
+      <navLabel>
+        <text>Chapter 37: Preface</text>
+      </navLabel>
+      <content src="chapter_36a.html"/>
+    </navPoint>
+    <navPoint id="num_113" playOrder="113">
+      <navLabel>
+        <text>Chapter Thirty-Seven: A Rightful Heir</text>
+      </navLabel>
+      <content src="chapter_37.html"/>
+    </navPoint>
+    <navPoint id="num_114" playOrder="114">
+      <navLabel>
+        <text>Chapter 38: Preface</text>
+      </navLabel>
+      <content src="chapter_37a.html"/>
+    </navPoint>
+    <navPoint id="num_115" playOrder="115">
+      <navLabel>
+        <text>Chapter Thirty-Eight: A New Home in Orbit</text>
+      </navLabel>
+      <content src="chapter_38.html"/>
+    </navPoint>
+    <navPoint id="num_116" playOrder="116">
+      <navLabel>
+        <text>Chapter 39: Preface</text>
+      </navLabel>
+      <content src="chapter_38a.html"/>
+    </navPoint>
+    <navPoint id="num_117" playOrder="117">
+      <navLabel>
+        <text>Chapter Thirty-Nine: A Permanent Foundation</text>
+      </navLabel>
+      <content src="chapter_39.html"/>
+    </navPoint>
+    <navPoint id="num_118" playOrder="118">
+      <navLabel>
+        <text>Chapter 40: Preface</text>
+      </navLabel>
+      <content src="chapter_39a.html"/>
+    </navPoint>
+    <navPoint id="num_119" playOrder="119">
+      <navLabel>
+        <text>Chapter Forty: The Gem Ship</text>
+      </navLabel>
+      <content src="chapter_40.html"/>
+    </navPoint>
+    <navPoint id="num_120" playOrder="120">
+      <navLabel>
+        <text>Interlude 4: Preface</text>
+      </navLabel>
+      <content src="chapter_40a.html"/>
+    </navPoint>
+    <navPoint id="num_121" playOrder="121">
+      <navLabel>
+        <text>Interlude IV: A Night on Earth</text>
+      </navLabel>
+      <content src="chapter_il_04.html"/>
+    </navPoint>
+    <navPoint id="num_122" playOrder="122">
+      <navLabel>
+        <text>Chapter 41: Preface</text>
+      </navLabel>
+      <content src="chapter_il_04a.html"/>
+    </navPoint>
+    <navPoint id="num_123" playOrder="123">
+      <navLabel>
+        <text>Chapter Forty-One: A Friend in Need...</text>
+      </navLabel>
+      <content src="chapter_41.html"/>
+    </navPoint>
+    <navPoint id="num_124" playOrder="124">
+      <navLabel>
+        <text>Chapter 42: Preface</text>
+      </navLabel>
+      <content src="chapter_41a.html"/>
+    </navPoint>
+    <navPoint id="num_125" playOrder="125">
+      <navLabel>
+        <text>Chapter Forty-Two: To Walk Upon Another Moon</text>
+      </navLabel>
+      <content src="chapter_42.html"/>
+    </navPoint>
+    <navPoint id="num_126" playOrder="126">
+      <navLabel>
+        <text>Chapter 43: Preface</text>
+      </navLabel>
+      <content src="chapter_42a.html"/>
+    </navPoint>
+    <navPoint id="num_127" playOrder="127">
+      <navLabel>
+        <text>Chapter Forty-Three: A Grand Odyssey</text>
+      </navLabel>
+      <content src="chapter_43.html"/>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>Chapter 43: Annex</text>
+      </navLabel>
+      <content src="chapter_43a.html"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>Chapter 44: Preface</text>
+      </navLabel>
+      <content src="chapter_43a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_130" playOrder="130">
+      <navLabel>
+        <text>Chapter Forty-Four: Say Again?</text>
+      </navLabel>
+      <content src="chapter_44.html"/>
+    </navPoint>
+    <navPoint id="num_131" playOrder="131">
+      <navLabel>
+        <text>Chapter 44: Annex</text>
+      </navLabel>
+      <content src="chapter_44a.html"/>
+    </navPoint>
+    <navPoint id="num_132" playOrder="132">
+      <navLabel>
+        <text>Chapter 45: Preface</text>
+      </navLabel>
+      <content src="chapter_44a.html#filepos9104"/>
+    </navPoint>
+    <navPoint id="num_133" playOrder="133">
+      <navLabel>
+        <text>Chapter Forty-Five: A Precious Moment</text>
+      </navLabel>
+      <content src="chapter_45.html"/>
+    </navPoint>
+    <navPoint id="num_134" playOrder="134">
+      <navLabel>
+        <text>Chapter 46: Preface</text>
+      </navLabel>
+      <content src="chapter_45a.html"/>
+    </navPoint>
+    <navPoint id="num_135" playOrder="135">
+      <navLabel>
+        <text>Chapter Forty-Six: Time to Dance</text>
+      </navLabel>
+      <content src="chapter_46.html"/>
+    </navPoint>
+    <navPoint id="num_136" playOrder="136">
+      <navLabel>
+        <text>Chapter 47: Preface</text>
+      </navLabel>
+      <content src="chapter_46a.html"/>
+    </navPoint>
+    <navPoint id="num_137" playOrder="137">
+      <navLabel>
+        <text>Chapter Forty-Seven: Forward, Together</text>
+      </navLabel>
+      <content src="chapter_47.html"/>
+    </navPoint>
+    <navPoint id="num_138" playOrder="138">
+      <navLabel>
+        <text>Epilogue: Preface</text>
+      </navLabel>
+      <content src="chapter_47a.html"/>
+    </navPoint>
+    <navPoint id="num_139" playOrder="139">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="epilogue.html"/>
+    </navPoint>
+    <navPoint id="num_140" playOrder="140">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="acknowledgements.html"/>
+    </navPoint>
+    <navPoint id="num_141" playOrder="141">
+      <navLabel>
+        <text>About the author</text>
+      </navLabel>
+      <content src="aboutAuthor.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
